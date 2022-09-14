@@ -1,0 +1,23 @@
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\Linq_training.exe.config
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\Linq_training.exe
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\Linq_training.pdb
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\obj\Debug\Linq_training.exe
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\obj\Debug\Linq_training.pdb
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\obj\Debug\Linq_training.csprojResolveAssemblyReference.cache
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\EntityFramework.dll
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\EntityFramework.xml
+C:\Users\fbatin\documents\visual studio 2015\Projects\Linq_training\Linq_training\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\Linq_training.exe.config
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\Linq_training.exe
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\Linq_training.pdb
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\EntityFramework.dll
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\EntityFramework.xml
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\obj\Debug\Linq_training.csproj.AssemblyReference.cache
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\obj\Debug\Linq_training.csproj.SuggestedBindingRedirects.cache
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\obj\Debug\Linq_training.csproj.CoreCompileInputs.cache
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\obj\Debug\Linq_training.csproj.CopyComplete
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\obj\Debug\Linq_training.exe
+D:\Programming\SMITS - Training\Working Project\ASP training\Linq_training\Linq_training\obj\Debug\Linq_training.pdb
